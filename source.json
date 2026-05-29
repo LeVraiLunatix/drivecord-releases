@@ -1,0 +1,38 @@
+{
+  "name": "Drivecord",
+  "identifier": "com.lunatix.drivecord.source",
+  "subtitle": "Unlimited cloud storage via Discord",
+  "description": "Official source for Drivecord — unlimited file storage powered by Discord webhooks.",
+  "iconURL": "https://raw.githubusercontent.com/LeVraiLunatix/drivecord-releases/main/icon.png",
+  "website": "https://drivecord.vercel.app",
+  "tintColor": "6366f1",
+  "sourceURL": "https://raw.githubusercontent.com/LeVraiLunatix/drivecord-releases/main/source.json",
+  "apps": [
+    {
+      "name": "Drivecord",
+      "bundleIdentifier": "com.lunatix.drivecord",
+      "developerName": "Lunatix",
+      "subtitle": "Unlimited storage via Discord",
+      "localizedDescription": "Drivecord turns Discord webhooks into unlimited cloud storage.\n\nFEATURES\n- Unlimited storage via Discord webhooks\n- Chunked parallel upload, no file size limit\n- In-app preview: images, video (incl. .mov/HEIC), audio, PDF\n- Folders, tags, favorites and search\n- Cross-device sync — same account, same files everywhere\n- Dark mode, drag & drop, mobile-first UI\n\nConnect your Discord webhook and store anything.",
+      "iconURL": "https://raw.githubusercontent.com/LeVraiLunatix/drivecord-releases/main/icon.png",
+      "tintColor": "6366f1",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-05-29",
+          "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/ios-latest/Drivecord.ipa",
+          "size": 499544,
+          "localizedDescription": "Initial release of Drivecord for iOS."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          { "name": "get-task-allow" }
+        ],
+        "privacy": []
+      }
+    }
+  ],
+  "news": []
+}
