@@ -19,6 +19,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.28",
+          "date": "2026-05-30",
+          "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/ios-latest/Drivecord.ipa",
+          "size": 527512,
+          "localizedDescription": "Connexion Google & Discord dans l'app\n\n🔐 **Connexion sociale enfin dispo dans l'app !**\n- Tu peux maintenant te connecter avec **Google** ou **Discord** directement depuis l'application iOS.\n- La connexion s'ouvre dans Safari (pour que les passkeys et la biométrie fonctionnent), puis te ramène automatiquement dans l'app, connecté.\n\n✨ **Aussi dans cette version :**\n- Taps mieux alignés (plus de décalage quand tu appuies sur un bouton).\n- Affichage corrigé : plus d'écart bizarre en haut de l'écran.\n- Page de paramètres complète : profil, mot de passe, gestion des drives, thème.\n- Page d'accueil de l'app repensée avec des animations fluides.\n- Connexion entre comptes plus fiable (plus de mélange de comptes)."
+        },
+        {
           "version": "1.0",
           "date": "2026-05-30",
           "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/ios-latest/Drivecord.ipa",
