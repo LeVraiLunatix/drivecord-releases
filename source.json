@@ -20,9 +20,9 @@
       "versions": [
         {
           "version": "1.0",
-          "date": "2026-05-29",
+          "date": "2026-05-30",
           "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/ios-latest/Drivecord.ipa",
-          "size": 508772,
+          "size": 508769,
           "localizedDescription": "Initial release of Drivecord for iOS."
         }
       ],
