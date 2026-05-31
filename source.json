@@ -19,6 +19,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.33",
+          "date": "2026-05-31",
+          "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.33/Drivecord.ipa",
+          "size": 519976,
+          "localizedDescription": "Coffre-fort 🔐 + nouvelles fonctions\n\n🔐 **Coffre-fort sécurisé**\n- Une nouvelle section **Coffre-fort** : mets-y tes fichiers sensibles, ils sont cachés de toutes les autres vues.\n- Verrouillé par un **code PIN**, et déverrouillable en **Face ID / Touch ID** dans l'app.\n- Se re-verrouille tout seul quand tu quittes la section.\n\n✨ **Aussi dans cette version :**\n- **Aperçu enrichi** : coloration du code + rendu markdown.\n- **Statistiques** détaillées de ton drive (types, activité, top fichiers).\n- **Palette de commandes** (Ctrl/Cmd+K) pour tout faire au clavier.\n- **Import de dossiers entiers** (l'arborescence est recréée).\n- **Téléchargement groupé en ZIP** (sélection multiple).\n\n---"
+        },
+        {
           "version": "1.0.32",
           "date": "2026-05-31",
           "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.32/Drivecord.ipa",
