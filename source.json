@@ -19,6 +19,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.40",
+          "date": "2026-06-02",
+          "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.40/Drivecord.ipa",
+          "size": 863180,
+          "localizedDescription": "Design iOS liquid glass + sélection + sauvegarde pellicule\n\n🫧 Nouveau design \"liquid glass\" (dans l'app)\n- Menus, cartes, fenêtres et barre du haut translucides, floutés, façon iOS.\n\n✅ Sélection multiple au doigt\n- Bouton \"Sélectionner\" : tape les fichiers pour les cocher, \"Tout sélectionner\". Plus besoin de les prendre un par un.\n\n📸 Sauvegarde de la pellicule\n- Sauvegarde tes photos/vidéos dans un drive ; tes albums deviennent des dossiers. Re-upload fiable (plus de crash mémoire), suivi synchronisé avec le drive.\n\n📥 Téléchargements natifs\n- Images/vidéos → galerie, autres fichiers → app Fichiers (dossier Drivecord).\n\n🔗 Partage par lien + 🔐 coffre-fort chiffré + aperçu enrichi + statistiques + palette Ctrl+K."
+        },
+        {
           "version": "1.0.39",
           "date": "2026-06-02",
           "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.39/Drivecord.ipa",
