@@ -19,6 +19,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.35",
+          "date": "2026-06-02",
+          "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.35/Drivecord.ipa",
+          "size": 863110,
+          "localizedDescription": "Téléchargements natifs + partage + coffre-fort\n\n📥 Téléchargements qui marchent vraiment dans l'app\n- Les images et vidéos sont enregistrées dans ta galerie 📸\n- Les autres fichiers vont dans l'app Fichiers, dans un dossier Drivecord 📁\n- Un seul fichier = téléchargement direct ; plusieurs fichiers = ZIP\n\n🔗 Partage par lien : partage un fichier via un lien (mot de passe + expiration), gère tous tes liens dans une section dédiée.\n\n🔐 Coffre-fort : section verrouillée par code PIN / Face ID, avec chiffrement E2EE.\n\n✨ Aussi : aperçu enrichi (code + markdown), statistiques, palette Ctrl+K, import de dossiers, nouvelle icône."
+        },
+        {
           "version": "1.0.34",
           "date": "2026-06-02",
           "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.34/Drivecord.ipa",
