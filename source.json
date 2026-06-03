@@ -19,6 +19,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.41",
+          "date": "2026-06-03",
+          "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.41/Drivecord.ipa",
+          "size": 868889,
+          "localizedDescription": "Barre de navigation native (vrai Liquid Glass) + refonte app\n\n🧭 Nouvelle barre d'onglets en bas, 100% native iOS\n- Fichiers · Coffre · Pellicule · Partagés · Réglages. Sur iOS 26 elle affiche le vrai Liquid Glass du système (pas une imitation).\n- Le menu qui s'ouvrait par la gauche est supprimé dans l'app : un bouton en haut donne accès aux drives, favoris, corbeille et tags.\n- Le petit \"+\" en bas à droite a disparu.\n\n✨ Fond ambiant coloré derrière l'interface pour faire ressortir les surfaces en verre, animations soignées."
+        },
+        {
           "version": "1.0.40",
           "date": "2026-06-02",
           "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.40/Drivecord.ipa",
