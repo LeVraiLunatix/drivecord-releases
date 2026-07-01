@@ -19,6 +19,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.45",
+          "date": "2026-07-01",
+          "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.45/Drivecord.ipa",
+          "size": 945962,
+          "localizedDescription": "Notifs de connexion, 2FA multi-méthodes & sécurité\n\n🔔 Approbation de connexion améliorée\n- Quand une connexion est demandée depuis un autre appareil, ton iPhone reçoit une notification (quand l'app est ouverte) en plus de la fenêtre d'approbation.\n\n🔐 Double authentification (2FA) repensée\n- Active plusieurs méthodes en même temps (application d'authentification et code par email) et choisis ta méthode préférée.\n- Au login, tu peux basculer entre tes méthodes ou utiliser un code de récupération.\n\n🛡️ Sécurité du compte\n- Les emails de connexion incluent un lien « ce n'était pas moi » pour changer ton mot de passe et déconnecter les appareils.\n- Déconnexion corrigée (marche au premier clic) + vraie page de déconnexion et page 404 soignée.\n\n📢 Annonces — l'admin peut afficher un message à l'ouverture du site.\n\n📱 Divers : l'app pointe désormais sur drivecord.app, code de vérification lisible sur petit écran, et la barre de sélection ne masque plus les derniers fichiers."
+        },
+        {
           "version": "1.0.44",
           "date": "2026-07-01",
           "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.44/Drivecord.ipa",
