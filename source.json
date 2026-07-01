@@ -19,6 +19,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.44",
+          "date": "2026-07-01",
+          "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.44/Drivecord.ipa",
+          "size": 901573,
+          "localizedDescription": "Menu drive en pull-down natif (Liquid Glass ancré)\n\n🫧 Le menu drive/sections et le menu tri ne s'ouvrent plus en bas : ils s'ouvrent ancrés sous leur bouton (en haut), façon menu déroulant natif iOS, avec le vrai Liquid Glass du système."
+        },
+        {
           "version": "1.0.43",
           "date": "2026-06-03",
           "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.43/Drivecord.ipa",
