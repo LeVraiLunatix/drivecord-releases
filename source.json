@@ -19,6 +19,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.46",
+          "date": "2026-07-01",
+          "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.46/Drivecord.ipa",
+          "size": 946003,
+          "localizedDescription": "Onglet « Approuver » + réglages\n\n🔐 Nouvel onglet « Approuver » (à la place de « Partagés » dans la barre du bas)\n- Pour te connecter sur un nouvel appareil : ouvre cet onglet sur ton iPhone déjà connecté et saisis le code à 4 chiffres affiché sur l'appareil qui veut se connecter → connexion approuvée à distance.\n\n⚙️ Réglages\n- « Partagés » est déplacé dans les Réglages.\n- Nouveau bouton « Se déconnecter » dans les Réglages."
+        },
+        {
           "version": "1.0.45",
           "date": "2026-07-01",
           "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.45/Drivecord.ipa",
