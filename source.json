@@ -4,7 +4,7 @@
   "subtitle": "Unlimited cloud storage via Discord",
   "description": "Official source for Drivecord — unlimited file storage powered by Discord webhooks.",
   "iconURL": "https://raw.githubusercontent.com/LeVraiLunatix/drivecord-releases/main/icon.png",
-  "website": "https://drivecord.vercel.app",
+  "website": "https://drivecord.app",
   "tintColor": "6366f1",
   "sourceURL": "https://raw.githubusercontent.com/LeVraiLunatix/drivecord-releases/main/source.json",
   "apps": [
