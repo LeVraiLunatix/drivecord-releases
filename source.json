@@ -19,6 +19,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.50",
+          "date": "2026-09-26",
+          "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.50/Drivecord.ipa",
+          "size": 947708,
+          "localizedDescription": "Continuer avec Cord\n\n🟣 Une identité pour toute la suite Cord\n- Nouveau bouton « Continuer avec Cord » en tête de la connexion et de l'inscription (web, app iOS et Drivecord Desktop).\n- Première connexion avec Cord = compte Drivecord créé automatiquement, avec ton nom et ta photo Cord.\n\n⚙️ Réglages › Compte Cord\n- Vois le compte Cord associé (nom, email), associe-le à ton compte actuel ou dissocie-le (s'il te reste une autre méthode de connexion).\n- Reprends ton nom Cord en un clic (ton nom n'est jamais écrasé sans toi).\n- Raccourcis vers ton Compte Cord : Sécurité (2FA, passkeys), Appareils et Passcord, Apps connectées.\n\n💬 Messages d'erreur clairs : connexion refusée, email Cord non confirmé, ou email déjà utilisé par un compte Drivecord (→ connecte-toi comme d'habitude puis associe Cord dans Réglages)."
+        },
+        {
           "version": "1.0.49",
           "date": "2026-09-17",
           "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.49/Drivecord.ipa",
