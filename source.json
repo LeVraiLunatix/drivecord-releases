@@ -19,6 +19,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.52",
+          "date": "2026-09-27",
+          "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.52/Drivecord.ipa",
+          "size": 947711,
+          "localizedDescription": "Cord d'abord\n\n🟣 Le Compte Cord devient LA façon d'entrer dans Drivecord\n- Nouvelle page de connexion et d'inscription : une grande carte Cord avec « Continuer avec Cord » (retour direct si tu es déjà connecté à Cord) et « Créer mon compte avec Cord » (inscription Cord, code à 6 chiffres par email, puis retour immédiat ici — ton email est prérempli si tu l'as tapé).\n- Discord, Google, passkey et email + mot de passe restent disponibles sous « Autres méthodes » (ouvert automatiquement si c'est ce que tu utilises d'habitude).\n- Même chose dans l'app iOS (via Safari) et dans Drivecord Desktop.\n- Tu n'as pas encore relié Cord ? Un petit bandeau te le propose une fois dans le drive (tu peux le fermer).\n\n🔗 Drivecord branché sur la suite\n- Le hub Cord affiche ton espace Drivecord (stockage utilisé, fichiers, drives, dernier envoi).\n- Notifications dans la cloche Cord : sauvegarde de la pellicule terminée, lien de partage ouvert pour la première fois.\n- Réglages › Compte Cord : nouveau lien « Voir ma suite »."
+        },
+        {
           "version": "1.0.51",
           "date": "2026-09-26",
           "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.51/Drivecord.ipa",
