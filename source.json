@@ -19,6 +19,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.57",
+          "date": "2026-10-01",
+          "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.57/Drivecord.ipa",
+          "size": 961852,
+          "localizedDescription": "App iPhone : encore des corrections\n\n📶 Sans réseau : ouvrir l'app hors connexion affichait un écran noir pour de bon. Un écran « Pas de connexion » s'affiche maintenant, et l'app se recharge toute seule dès que le réseau revient.\n\n🎵 Musique : le lecteur audio continue quand l'iPhone se verrouille ou que tu changes d'app, avec les commandes sur l'écran verrouillé.\n\n📸 Pellicule\n- Changer d'onglet pendant une sauvegarde ne permet plus d'en lancer une deuxième en même temps (les médias partaient en double) : la progression est retrouvée en revenant.\n- L'écran ne se met plus en veille pendant la sauvegarde (le verrouillage automatique l'arrêtait).\n\n🔑 Connexion et sécurité\n- Le code reçu par e-mail ou SMS se remplit d'un coup depuis le clavier (seul le premier chiffre passait).\n- Les passkeys ne sont plus proposées là où elles ne peuvent pas marcher dans l'app (déverrouillage, ajout) : « Ajouter » ouvre Safari.\n- Les demandes de connexion et la liste des appareils affichent « App Drivecord sur iOS » (et Chrome / Firefox sur iPhone) au lieu de « Safari sur iOS ».\n\n🛠️ Divers : la documentation ne passe plus sous la barre d'état ni sous la barre d'onglets, et AltStore affiche les autorisations demandées par l'app."
+        },
+        {
           "version": "1.0.54",
           "date": "2026-10-01",
           "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.54/Drivecord.ipa",
@@ -207,7 +214,28 @@
             "name": "get-task-allow"
           }
         ],
-        "privacy": []
+        "privacy": [
+          {
+            "name": "NSCameraUsageDescription",
+            "usageDescription": "Drivecord utilise l’appareil photo quand tu prends une photo ou une vidéo à envoyer dans ton drive."
+          },
+          {
+            "name": "NSFaceIDUsageDescription",
+            "usageDescription": "Drivecord utilise Face ID pour déverrouiller ton coffre-fort."
+          },
+          {
+            "name": "NSMicrophoneUsageDescription",
+            "usageDescription": "Drivecord utilise le micro pour le son des vidéos que tu filmes depuis l’app."
+          },
+          {
+            "name": "NSPhotoLibraryAddUsageDescription",
+            "usageDescription": "Drivecord enregistre les images et vidéos téléchargées dans ta galerie."
+          },
+          {
+            "name": "NSPhotoLibraryUsageDescription",
+            "usageDescription": "Drivecord accède à ta pellicule pour sauvegarder tes photos et vidéos."
+          }
+        ]
       }
     }
   ],
