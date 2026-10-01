@@ -19,6 +19,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.59",
+          "date": "2026-10-01",
+          "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.59/Drivecord.ipa",
+          "size": 965594,
+          "localizedDescription": "App iPhone : connexion sans quitter l'app\n\n🔐 Connexion dans l'app : Cord, Google, Discord et passkey s'ouvrent maintenant dans la fenêtre de connexion d'iOS, par-dessus l'app (« Drivecord souhaite utiliser drivecord.app pour se connecter »), au lieu de basculer dans Safari. Tu restes dans Drivecord du début à la fin.\n\n🔔 Demandes de connexion, même app fermée : elles arrivent aussi en notification via ton Compte Cord. Pour ça : ouvre compte.cordsuite.app dans Safari, Partager → Sur l'écran d'accueil, puis active les notifications dans le Compte Cord. Le détail est dans l'onglet « Approuver »."
+        },
+        {
           "version": "1.0.57",
           "date": "2026-10-01",
           "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.57/Drivecord.ipa",
