@@ -19,6 +19,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.53",
+          "date": "2026-10-01",
+          "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.53/Drivecord.ipa",
+          "size": 947712,
+          "localizedDescription": "Drivecord 1.0 : chiffrement de bout en bout et API v2\n\n🔒 Vrai chiffrement de bout en bout\n- Tes fichiers, leurs noms, leur type et le nom de tes dossiers sont chiffrés sur ton appareil. Le serveur ne détient plus aucune clé : même une fuite de sa base ne révèle rien.\n- Clé de récupération affichée à la création, phrase de chiffrement optionnelle, passkey, et approbation depuis un autre appareil avec code de vérification.\n- Tes drives existants sont migrés automatiquement ; un bouton « Chiffrer maintenant » traite les anciens fichiers.\n- Liens de partage chiffrés (la clé reste dans le lien, jamais envoyée au serveur), mot de passe optionnel.\n- Coffre-fort : le PIN n'est plus jamais envoyé au serveur.\n\n🧩 Applications et API v2\n- Connecte une application à ton Drivecord avec OAuth : elle n'accède qu'à son dossier, tu peux la révoquer à tout moment (Réglages › Applications connectées).\n- Nouvelle API v2 chiffrée, jetons personnels, SDK navigateur (@drivecord/sdk) et Node (@drivecord/node), boutons d'upload et visionneuse en iframe. L'API v1 est dépréciée.\n\n🎨 Plus beau, plus clair\n- Nouvelle page d'accueil (qui voit quoi, développeurs, fonctionnalités à jour), aperçus d'images enfin affichés pour les fichiers chiffrés, panneau d'upload qui se range tout seul, page d'erreur claire.\n- Bannière jaune si le site, la base de données ou Discord sont temporairement inaccessibles (ou en cas de maintenance).\n- Corbeille : restaurer et vider ; recherche dans tout le drive ; menus qui ne bloquent plus la page après un renommage.\n\n✨ La bêta est terminée — Drivecord passe en version 1.0."
+        },
+        {
           "version": "1.0.52",
           "date": "2026-09-27",
           "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.52/Drivecord.ipa",
