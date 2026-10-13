@@ -19,6 +19,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.61",
+          "date": "2026-10-13",
+          "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.61/Drivecord.ipa",
+          "size": 979427,
+          "localizedDescription": "App iPhone : sauvegarde de la pellicule et lecteur de musique\n\n📸 Sauvegarde de la pellicule\n- Plus de plantage sur les grosses vidéos : l'app les copiait entièrement en mémoire avant de les envoyer (une vidéo 4K de plusieurs Go faisait fermer l'app). Elles sont maintenant copiées sur le disque morceau par morceau.\n- Les vidéos au ralenti sont enfin sauvegardées.\n- La lecture de la pellicule au lancement est beaucoup plus rapide (plus de miniature générée pour chaque photo), et les fichiers gardent leur vrai nom (IMG_1234.HEIC).\n\n🎵 Lecteur de musique\n- Fini le son qui grésille ou se coupe sur iPhone (écran verrouillé, arrière-plan, après un appel) : le son ne passe plus par le circuit du visualiseur, qui reste animé.\n- Pause et lecture depuis l'écran verrouillé fonctionnent à chaque fois, avec le bon état et la bonne position affichés.\n- Déplacer la barre de lecture ne hache plus le son : la position s'applique quand tu relâches.\n- Le visualiseur n'est plus bloqué à fond : les barres suivent vraiment la musique (graves plus hautes que les aigus), et retombent en douceur.\n- Le curseur de volume, sans effet sur iPhone (ce sont les boutons du téléphone qui règlent le son), est masqué."
+        },
+        {
           "version": "1.0.59",
           "date": "2026-10-01",
           "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.59/Drivecord.ipa",
