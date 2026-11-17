@@ -19,6 +19,13 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.65",
+          "date": "2026-11-17",
+          "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.65/Drivecord.ipa",
+          "size": 1516065,
+          "localizedDescription": "Personnalise ton drive, et fini les effets en trop\n\n🎨 Un fond identique pour tout le monde, et toi tu choisis le tien.\n- Le drive démarre sur un noir uni, fixe : plus d'étoiles, d'aurore ni de nappes qui bougent.\n- Réglages › Apparence › Mon drive (gratuit pour tous, avec aperçu en direct) : fond uni, dégradé ou ta propre image (avec voile sombre et flou), couleur d'accent libre, angles (arrondi, doux, net), panneaux en verre ou pleins, espacement (serré, normal, aéré), taille des vignettes et page d'ouverture (Mes fichiers ou Accueil).\n- Les mécènes Patreon gardent leurs fonds animés (poussière, constellation, grille néon, rubans, étoiles filantes) : ils se posent par-dessus ton fond, et seulement si tu les choisis.\n- Un seul thème : KitCord, sombre. Les thèmes Clair, Système, Aurora et Or nocturne sont retirés : empilés sur KitCord, ils donnaient un rendu mélangé. Pour une autre ambiance, utilise le fond et la couleur de Mon drive.\n- Plus sobre : suppression des éclats colorés au clic, des icônes qui tournent au survol, des cartes qui rebondissent et du reflet sur les boutons."
+        },
+        {
           "version": "1.0.62",
           "date": "2026-11-15",
           "downloadURL": "https://github.com/LeVraiLunatix/drivecord-releases/releases/download/v1.0.62/Drivecord.ipa",
